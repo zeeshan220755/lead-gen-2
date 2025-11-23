@@ -1,0 +1,18 @@
+{
+  "name": "lead-gen-2",
+  "version": "1.0.0",
+  "description": "Modern lead generation form with Google Sheets integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000",
+    "build": "echo 'No build step required for static site'"
+  },
+  "keywords": [
+    "lead-generation",
+    "form",
+    "google-sheets",
+    "responsive"
+  ],
+  "author": "",
+  "license": "MIT"
+}
